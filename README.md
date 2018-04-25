@@ -163,3 +163,4 @@ called, along with setting the `calledOnce` and `calledTwice` properties every t
 
 Obviously, the real Sinon.js spies are a lot more complicated than this implementation since they
 have a lot more functionality, but this is basically how it works!
+<p data-visibility='hidden'>PHRG JavaScript Spies</p>
